@@ -1,6 +1,6 @@
 {
   "name": "next-tic-tac-toe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -16,6 +16,6 @@
     "tailwindcss": "^2.0.2"
   },
   "devDependencies": {
-    "stylelint-config-recommended": "^3.0.0"
+    "stylelint-config-recommended": "5.0.0"
   }
 }
